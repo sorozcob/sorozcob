@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 🐌 I am an undergraduate student of Genomic Sciences at the Genomic Science Center, UNAM. I have a great appetite for learning and developing new skills. 
+
 🔭 I seek to contribute to interdisciplinary projects that integrate bioinformatics, applied mathematics, and genomics.
 
